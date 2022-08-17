@@ -7,4 +7,5 @@ Concepts used :
 - Used OOP
 - Good use of Pygame library to get a decent GUI with moving pieces
 
-![alt text](https://github.com/Swiip912/connect4/images/screen_app.jpg?raw=true)
+
+![screen_app](https://user-images.githubusercontent.com/111436917/185144730-a16bb942-17b6-4a58-a481-f92343925332.JPG)
